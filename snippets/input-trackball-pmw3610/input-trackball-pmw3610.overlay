@@ -34,9 +34,7 @@
 };
 
 &pointing_listener {
-    input-processors =
-        <&zip_xy_transform (INPUT_TRANSFORM_XY_SWAP)>,
-        <&zip_temp_layer 4 500>;
+    input-processors = <&zip_xy_transform (INPUT_TRANSFORM_XY_SWAP)>;
 
     scroller {
         layers = <2 5>;
