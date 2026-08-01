@@ -105,7 +105,7 @@
 
         symbol_layer {
             bindings = <
-&kp GRAVE  &none      &kp LG(MINUS)   &kp UP_ARROW    &kp LG(PLUS)     &none      &kp AMPERSAND    &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS         &kp EQUAL
+&kp GRAVE  &none      &kp LG(MINUS)   &kp UP_ARROW    &kp LG(PLUS)     &kp LA(P)  &kp AMPERSAND    &kp ASTERISK   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp MINUS         &kp EQUAL
 &kp LCTRL  &kp LA(A)  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LC(E)  &kp EXCLAMATION  &kp AT_SIGN    &kp HASH              &kp PERCENT            &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans     &none      &none           &none           &none            &none      &none            &none          &kp CARET             &none                  &none             &none              &none  &trans
 &trans     &none      &trans          &trans          &kp LCMD         &trans     &trans           &kp LG(SPACE)  &kp RIGHT_COMMAND     &trans                 &trans            &kp PERCENT
